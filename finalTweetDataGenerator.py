@@ -23,7 +23,7 @@ def main(tweet_file, new_file_name):
                 Day = currentDate
                 Positive = pos/total
                 Negative = neg/total
-                print(Day,",",Positive,",",Negative,",",total)
+                print(Day,",",pos,",",neg,",",total)
             currentDate = date[0:date.index(year) + len(year)]
             total = 0
             pos = 0
