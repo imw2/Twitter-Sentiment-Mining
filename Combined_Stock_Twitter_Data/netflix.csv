@@ -1,4 +1,4 @@
-,Stock_Date,open,high,low,close,volume,Twet_Date,Positive,Negative,Total
+,Stock_Date,open,high,low,close,volume,Tweet_Date,Positive,Negative,Total
 0,10/22/2018,333.1,335.8,320.34,329.54,17097175,10/23/2018,950,292,1999
 1,10/23/2018,318,336.58,316.77,333.16,14907326,10/24/2018,999,265,2019
 2,10/24/2018,332.28,333,300.73,301.83,19039297,10/25/2018,897,267,1881
